@@ -6,6 +6,10 @@ public class Exam {
 		System.out.println("kaviya");
         System.out.println("jeeva");
         System.out.println("Mohan");
+        System.out.println(1);
+        System.out.println(2);
+        System.out.println(3);
+        System.out.println(4);
 	}
 
 }
